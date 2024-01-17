@@ -27,7 +27,7 @@ The code mainly comes from official [source code](https://github.com/NVlabs/STL)
     ├── samplers.py: Define the parameter of "sampler" in DataLoader
     ├── utils.py: Record various indicator information and output and distributed environment
 ├── estimate_model.py: Visualized evaluation indicators ROC curve, confusion matrix, classification report, etc.
-└── train_gpu.py: Training model startup file
+└── train_gpu.py: Training model startup file (including infer process)
 ```
 
 ## Precautions
